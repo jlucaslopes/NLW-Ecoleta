@@ -35,8 +35,6 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
-server/node_modules/
-web/node_modules/
 
 # Distribution directories
 dist/
